@@ -1,0 +1,5 @@
+numpy
+gymnasium[box2d]
+imageio
+matplotlib
+jupyterlab
