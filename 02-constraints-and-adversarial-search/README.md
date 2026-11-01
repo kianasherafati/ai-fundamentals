@@ -11,7 +11,7 @@ From this project directory:
 
 ```sh
 cd crossword
-python main.py puzzles/p1.txt
+python -X utf8 main.py puzzles/p1.txt
 ```
 
 Run from `crossword/` so the relative `words/words.txt` path resolves correctly.
